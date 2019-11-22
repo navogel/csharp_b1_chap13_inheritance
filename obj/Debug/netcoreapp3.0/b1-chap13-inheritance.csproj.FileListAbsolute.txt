@@ -1,0 +1,11 @@
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\bin\Debug\netcoreapp3.0\b1-chap13-inheritance.exe
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\bin\Debug\netcoreapp3.0\b1-chap13-inheritance.deps.json
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\bin\Debug\netcoreapp3.0\b1-chap13-inheritance.runtimeconfig.json
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\bin\Debug\netcoreapp3.0\b1-chap13-inheritance.runtimeconfig.dev.json
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\bin\Debug\netcoreapp3.0\b1-chap13-inheritance.dll
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\bin\Debug\netcoreapp3.0\b1-chap13-inheritance.pdb
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\obj\Debug\netcoreapp3.0\b1-chap13-inheritance.csprojAssemblyReference.cache
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\obj\Debug\netcoreapp3.0\b1-chap13-inheritance.AssemblyInfoInputs.cache
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\obj\Debug\netcoreapp3.0\b1-chap13-inheritance.AssemblyInfo.cs
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\obj\Debug\netcoreapp3.0\b1-chap13-inheritance.dll
+C:\Nate2019\NSS\workspace\c#\b1-chap13-inheritance\obj\Debug\netcoreapp3.0\b1-chap13-inheritance.pdb
